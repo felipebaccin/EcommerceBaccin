@@ -1,5 +1,5 @@
 #Criação do Projeto 
--criaçao do projeto 
+ - criaçao do projeto 
 	foi criado o projeto com o forge
 
 #Criando as entidades 
